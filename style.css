@@ -350,6 +350,8 @@ a{color:inherit;}
   margin-top:3px;
   letter-spacing:0.02em;
 }
+.log-role .org a{ text-decoration:none; border-bottom:1px solid var(--olive); }
+.log-role .org a:hover{ color:var(--olive-deep); }
 .log-notes ul{
   margin:0; padding-left:16px;
   font-size:13px;
